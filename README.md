@@ -12,10 +12,11 @@
 - VIN: `YV4952CY6D1666945`
 - license plate #: `7BBS848`
 - gas: `87+`
+- engine type: 3.2L inline-6
 - engine oil:
-  - type: `5W-20`
-  - capacity: `4.2 L (4.4 qt)`
+  - type: `5W-30`
+  - capacity: `6.8 L (7.2 qt)`
 - tires:
-  - front: `215/70 R 16` - `32 psi`
-  - rear:  `215/70 R 16` - `34 psi`
-  - spare: `60 psi`
+  - front: `235/70 R 17` - `36 psi`
+  - rear:  `235/70 R 17` - `36 psi`
+  - spare: `61 psi`
