@@ -12,7 +12,7 @@
 - VIN: `YV4952CY6D1666945`
 - license plate #: `7BBS848`
 - gas: `87+`
-- engine type: 3.2L I6
+- engine type: 3.2L SI6
 - engine oil:
   - type: `5W-30`
   - capacity: `6.8 L (7.2 qt)`
