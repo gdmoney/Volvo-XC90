@@ -1,4 +1,4 @@
-# 2013 Volvo CX90
+# 2013 Volvo XC90
 
 
 ### Maintenance log and parts/upgrades tracking for Tina's first car
