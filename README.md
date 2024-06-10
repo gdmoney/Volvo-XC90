@@ -1,10 +1,10 @@
 # 2013 Volvo CX 90
 
 
-### Maintenance log and parts/upgrades tracking for my car
+### Maintenance log and parts/upgrades tracking for Tina's first car
 
 
-![](/pic.jpt)
+![](/pic.jpg)
 
 
 ### Notes
