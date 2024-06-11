@@ -1,22 +1,22 @@
-Service                     Date & Mileage                                                    Notes
-=======                     ==============                                                    =====
+Service                           Date & Mileage                                                    Notes
+=======                           ==============                                                    =====
 Fluids
 ------
-+ engine oil                nn.nn.202n (116k)      
-- coolant                   
-- brake                     
-- freon                     
-+ transmission              03.02.2020 (nnnk)      
++ engine oil                      nn.nn.202n (116k)
+- coolant                    
+- brake                      
+- freon                      
++ transmission                    03.02.2020 (nnnk)
 - power steering
 
 
 Filters
 -------
-+ oil                       nn.nn.202n (nnnk)      
-- engine air                
-+ cabin air                 12.23.2023 (nnnk)      
-+ fuel                      12.23.2023 (nnnk)      
-- transmission              
++ oil                             nn.nn.202n (nnnk)
+- engine air                 
++ cabin air                       12.23.2023 (nnnk)
++ fuel                            12.23.2023 (nnnk)
+- transmission               
 
 
 Belts / Hoses
@@ -31,33 +31,33 @@ Belts / Hoses
 
 Electrical
 ----------
-- spark plugs               
-- starter                   
-- ignition starter switch   
-- battery                   
+- spark plugs
+- starter
+- ignition starter switch
+- battery
 - alternator
 
 
 Brakes
 ------
-+ front pads                03.02.2020 (nnnk)
++ front pads                      03.02.2020 (nnnk)
 - front rotors              
-+ rear pads                 03.02.2020 (nnnk)
++ rear pads                       03.02.2020 (nnnk)
 - rear rotors               
 
 
 Tires
 -----
-- front                     
-- rear                      
-- alignment                 
+- front
+- rear
+- alignment
 - rotation
 
 
 Suspension
 ----------
 - lower control arms
-- struts - front             03.29.2022 (nnnk)
+- struts - front                  03.29.2022 (nnnk)
 - tie rods - outer
 - ball joints
 - control arms - front
@@ -76,7 +76,7 @@ Exhaust / Sensors
 - crankshaft position
 - camshaft position
 - knock
-+ PCV valve                  03.02.2020 (nnnk)
++ PCV valve                       03.02.2020 (nnnk)
 
 
 Pumps
@@ -87,8 +87,8 @@ Pumps
 
 Misc
 -----
-- windshield wipers         
-- motor mounts (R,L,F)      
-- speakers (4)              
-- radiator                  
-- AC compressor relay       
+- windshield wipers
+- motor mounts
+- speakers
+- radiator
+- AC compressor relay
