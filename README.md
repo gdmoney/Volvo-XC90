@@ -17,6 +17,6 @@
   - type: `5W-30`
   - capacity: `6.8 L (7.2 qt)`
 - tires:
-  - front: `235/70 R 17` - `36 psi`
-  - rear:  `235/70 R 17` - `36 psi`
+  - front: `235/60 R 18` - `36 psi`
+  - rear:  `235/60 R 18` - `36 psi`
   - spare: `61 psi`
