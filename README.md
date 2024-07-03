@@ -4,7 +4,7 @@
 ### Maintenance log and parts/upgrades tracking for Tina's first car
 
 
-![](/pic.jpg)
+![](/pic.png)
 
 
 ### Notes
